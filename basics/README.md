@@ -1,1 +1,1 @@
-Hi all, this Repo for the Holberton School Linux projects
+Hi all, this directory for the first task of Linux project
